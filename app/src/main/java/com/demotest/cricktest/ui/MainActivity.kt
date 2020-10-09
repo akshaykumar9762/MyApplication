@@ -18,7 +18,7 @@ import retrofit2.Response
 
 
 class MainActivity : AppCompatActivity() {
-    val TAG = getString(R.string.main)
+    val TAG = "MainActivity"
     lateinit var picker: NumberPicker
     lateinit var curancyNameList: MutableList<String>
     lateinit var curranyList: MutableList<Currancy>
