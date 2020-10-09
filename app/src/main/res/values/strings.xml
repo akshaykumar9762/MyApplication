@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TEST</string>
+    <string name="wait_message">Please wait while we are getting prices for you...</string>
+    <string name="failure_message">Unable to get prices right now.</string>
+    <string name="no_internet_message">Please check your internet connection!</string>
+    <string name="price">PRICE</string>
+    <string name="main">MainActivity</string>
+</resources>
